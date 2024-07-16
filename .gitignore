@@ -6,7 +6,7 @@ plant-village-tomatoes
 /dataset-tomatoes*
 
 #models
-models-objects-saved
+models-objects-saved*
 
 #tests
 test.ipynb
